@@ -175,5 +175,5 @@ export const lifts: Lift[] = [
 export const social = [
   { label: "github", url: "https://github.com/daisydaines" },
   { label: "twitter", url: "https://twitter.com/daisydaines" },
-  { label: "linkedin", url: "https://linkedin.com/in/daisydaines" },
+  { label: "linkedin", url: "https://www.linkedin.com/in/daisy-daines-2766a4217" },
 ];
