@@ -48,8 +48,8 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.28, ease: "easeOut" }}
           className="text-base text-foreground/50 max-w-md leading-relaxed mb-10"
         >
-          i build things for the internet, write poems to express myself,
-          and i&apos;m pursue fitness goals that stretch me.
+          i build things for the internet, write poems to express myself
+          and pursue fitness goals that stretch me.
         </motion.p>
 
         {/* Social links */}
