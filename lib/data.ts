@@ -57,7 +57,7 @@ export const personalProjects: Project[] = [
 
 export const clientProjects: Project[] = [
   {
-    name: "huxtableshomes",
+    name: "huxtablehomes",
     description: "real estate.",
     url: "https://huxtablehomes.com/",
     tag: "client",
