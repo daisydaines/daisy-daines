@@ -36,6 +36,13 @@ export function Nav() {
       </Link>
 
       <div className="flex items-center gap-5">
+        <Link
+          href="/activity"
+          className="font-mono text-xs text-foreground/30 hover:text-foreground/60 transition-colors"
+        >
+          activity
+        </Link>
+        <div className="w-px h-3 bg-foreground/10" />
         {social.map((s) => {
           const Icon = iconMap[s.label];
           if (!Icon) return null;

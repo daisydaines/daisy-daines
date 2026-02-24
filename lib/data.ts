@@ -59,7 +59,7 @@ export const clientProjects: Project[] = [
   {
     name: "huxtableshomes",
     description: "real estate.",
-    url: "https://huxtableshomes.com/",
+    url: "https://huxtablehomes.com/",
     tag: "client",
     isLive: true,
   },
