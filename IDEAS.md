@@ -2,9 +2,11 @@
 
 ## next up
 
-- **fitbod csv** — export from fitbod and drop into the repo as `public/fitbod.csv`. then swap `getFitnessActivity()` in `lib/activity.ts` for `parseFitbodCSV(csv)`. the parser is already written, just needs the file wired in.
+- **fitbod csv** — `data/WorkoutExport.csv` exists and the `parseFitbodCSV()` parser is written. just needs wiring: swap the hardcoded fitness data in `lib/activity.ts` for `parseFitbodCSV(csv)` reading from that file.
 
-- **poem subpages** — `/writing/wounded-healer` etc. create `app/writing/[slug]/page.tsx` with MDX or hardcoded content. full poem displayed in large serif, dark and quiet. could include a date, a short note, and a back link. the reading experience should feel completely different from the rest of the site — like opening a book.
+- **project detail pages** — `/building/relationshipos`, `/building/countitprints` etc. `app/building/` only has the grid right now. deeper dive per project: the problem, what you built, what you learned. especially useful as relationshipOS gets further along.
+
+- **og image** — custom social share image so links to the site look good when shared on x/slack. next.js has a built-in `opengraph-image` file convention. `layout.tsx` already references `daisydaines.com` in metadata so this is the missing piece.
 
 ---
 
@@ -20,6 +22,8 @@
 
 ## features
 
+- **twitter → x** — update the label in `lib/data.ts` from `"twitter"` to `"x"`, the url from `twitter.com` to `x.com`, and swap the lucide `Twitter` icon for `X` in `Nav.tsx` and `Hero.tsx`.
+
 - **light mode toggle** — already supported in the css, just needs a button. could be a subtle sun/moon icon in the nav.
 
 - **command palette** — `cmd+k` to navigate the site. jump to sections, open projects, go to activity. extremely dev-culture, would feel right at home here.
@@ -34,9 +38,7 @@
 
 ## content
 
-- **project detail pages** — `/building/relationshipos`, `/building/countitprints` etc. deeper dive: the problem, what you built, what you learned. especially useful as relationshipOS gets further along.
-
-- **more writing** — the activity grid will look better the more you write. even short entries count. consider writing directly in the repo as MDX files under `content/writing/` so you own the content fully and don't depend on wordpress.
+- **more writing** — only one poem (`still-learning.md`) in `content/writing/` so far. the activity grid will look better the more you write. even short entries count.
 
 - **reading list** — books that shaped how you think. short and curated. fits the intellectual side of the site without needing to be a full blog. one line per book, maybe a favorite quote.
 
@@ -44,10 +46,4 @@
 
 ## technical
 
-- **custom domain** — `daisydaines.com` or similar. vercel makes this one step.
-
-- **og image** — custom social share image so links to the site look good when shared on twitter/slack. next.js has a built-in `opengraph-image` file convention.
-
 - **rss feed** — auto-generated from the writing section. low effort, high value for anyone who wants to follow the writing.
-
-- **writing activity → real data** — replace the placeholder writing grid with actual dates. either pull from wordpress api (it has one) or just maintain a `content/writing-log.json` file with dates when you write anything, published or not.

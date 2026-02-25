@@ -68,7 +68,7 @@ export const clientProjects: Project[] = [
     description: "wellness coaching.",
     url: "https://simplythrivenow.com/",
     tag: "client",
-    isLive: false,
+    isLive: true,
   },
   {
     name: "thegatheringoffriends",
@@ -76,6 +76,13 @@ export const clientProjects: Project[] = [
     url: "https://thegatheringoffriends.com/",
     tag: "client",
     isLive: false,
+  },
+  {
+    name: "graciesfootzoning",
+    description: "wellness services.",
+    url: "https://gracies-footzoning.vercel.app/",
+    tag: "client",
+    isLive: true,
   },
 ];
 

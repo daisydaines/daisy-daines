@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { ArrowLeft } from "lucide-react";
 import { Nav } from "@/components/Nav";
+import { BackButton } from "@/components/BackButton";
 import { Footer } from "@/components/Footer";
 import { ActivityGrid } from "@/components/ActivityGrid";
 import {
   buildGrid,
   fetchGitHubActivity,
   getFitnessActivity,
-  getWritingActivity,
 } from "@/lib/activity";
+import { getAllWritings } from "@/lib/writing";
 
 export const revalidate = 3600;
 
@@ -21,10 +20,10 @@ export const metadata: Metadata = {
 const WEEKS = 13;
 
 export default async function ActivityPage() {
-  const [githubData, fitnessData, writingData] = await Promise.all([
+  const writingData = getAllWritings().map((w) => ({ date: w.date, count: 1 }));
+  const [githubData, fitnessData] = await Promise.all([
     fetchGitHubActivity(),
     Promise.resolve(getFitnessActivity()),
-    Promise.resolve(getWritingActivity()),
   ]);
 
   const codeGrid = buildGrid(githubData, WEEKS);
@@ -40,14 +39,9 @@ export default async function ActivityPage() {
       <Nav />
 
       <div className="px-6 md:px-12 pt-32 pb-24 max-w-5xl mx-auto">
-        {/* Back */}
-        <Link
-          href="/"
-          className="inline-flex items-center gap-1.5 font-mono text-xs text-foreground/30 hover:text-foreground/60 transition-colors mb-14 cursor-pointer"
-        >
-          <ArrowLeft size={11} />
-          home
-        </Link>
+        <div className="mb-14">
+          <BackButton />
+        </div>
 
         {/* Page title */}
         <h1 className="font-mono text-xs text-foreground/30 uppercase tracking-widest mb-14">
@@ -97,7 +91,7 @@ export default async function ActivityPage() {
             grid={fitnessGrid}
             type="fitness"
             total={fitnessTotal}
-            noun="workout"
+            noun="exercise"
           />
         </section>
 

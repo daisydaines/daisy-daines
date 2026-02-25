@@ -6,9 +6,9 @@ const words = [
   "builder.",
   "poet.",
   "future dunker.",
-  "writer.",
-  "hyrox racer.",
   "developer.",
+  "hyrox racer.",
+  "writer.",
   "data enthusiast.",
 ];
 
