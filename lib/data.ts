@@ -25,10 +25,10 @@ export const personalProjects: Project[] = [
   {
     name: "relationshipOS",
     description:
-      "an app for being more genuine and intentional in your relationships.",
-    url: "#",
+      "be there for the people that matter in a genuine and intentional ways.",
+    url: "https://mobile-rolodex.com/",
     tag: "building",
-    isLive: false,
+    isLive: true,
   },
   {
     name: "countitprints",
@@ -64,6 +64,13 @@ export const clientProjects: Project[] = [
     isLive: true,
   },
   {
+    name: "graciesfootzoning",
+    description: "wellness services.",
+    url: "https://gracies-footzoning.vercel.app/",
+    tag: "client",
+    isLive: true,
+  },
+  {
     name: "simplythrivenow",
     description: "wellness coaching.",
     url: "https://simplythrivenow.com/",
@@ -76,13 +83,6 @@ export const clientProjects: Project[] = [
     url: "https://thegatheringoffriends.com/",
     tag: "client",
     isLive: false,
-  },
-  {
-    name: "graciesfootzoning",
-    description: "wellness services.",
-    url: "https://gracies-footzoning.vercel.app/",
-    tag: "client",
-    isLive: true,
   },
 ];
 
