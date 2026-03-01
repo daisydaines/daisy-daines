@@ -3,6 +3,7 @@ title: "wounded healer"
 date: "2024-05-07"
 type: "poem"
 published: "public"
+image: "/images/writing/esther.JPG"
 ---
 
 It’s dark, calm and quiet outside,

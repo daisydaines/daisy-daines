@@ -11,6 +11,7 @@ export interface Writing {
   dateDisplay: string; // "feb 2026"
   type: "poem" | "journal";
   published: "public" | "private";
+  image?: string;
   content: string;
 }
 
@@ -40,6 +41,7 @@ export function getAllWritings({
         dateDisplay: formatDate(data.date as string),
         type: (data.type ?? "poem") as "poem" | "journal",
         published: (data.published ?? "public") as "public" | "private",
+        image: data.image as string | undefined,
       };
     })
     .filter((w) => includePrivate || w.published !== "private")
@@ -60,6 +62,7 @@ export function getWriting(slug: string): Writing | null {
     dateDisplay: formatDate(data.date as string),
     type: (data.type ?? "poem") as "poem" | "journal",
     published: (data.published ?? "public") as "public" | "private",
+    image: data.image as string | undefined,
     content: content.trim(),
   };
 }
