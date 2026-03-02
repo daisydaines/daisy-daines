@@ -2,7 +2,7 @@
 title: "a different kind of wrestle"
 date: "2019-10-29"
 type: "poem"
-published: "public"
+published: "private"
 ---
 
 sometimes as a kid I would wish my siblings didn’t exist anymore. “MOM! Can you make them disappear?!” or “You’re not my brother anymore!” these teeth-clenched exclamations typically accompanied a wrestling match, unkind words, and were always choked in tears. my immaturity would win over my sensitivity, and my heated words would sting my siblings ears and my tongue with equal burning. 
