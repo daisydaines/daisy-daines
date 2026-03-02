@@ -8,6 +8,9 @@ images:
     - /images/writing/esther_lake.JPG
 ---
 
+*A poem written for my coworker and manager, Jen, on her last day of work.*
+______
+
 It didn’t take long for me to surrender
 my fears and apprehension when I became a member
 of Zartico’s work force back in February 

@@ -9,6 +9,9 @@ images:
     - /images/writing/me_and_eg.jpeg
 ---
 
+*A sermon given at the Saturday night session of Stake Confernce. Sept 20, 2025*
+______
+
 Seizures weren’t unusual for our little Esther. At seven months old she was diagnosed with a rare form of epilepsy and suffered frequent seizures of all types and durations. Last April, my wife and I sat at Esther’s bedside in the hospital after she had suffered a seizure during the night. The doctors and nurses were doing everything they could to figure out why this one was different. After countless blood draws, heavy medications, and lab tests, they found nothing abnormal.
 
 Most of that weekend we spent pacing and praying. We walked all around her room and up and down the hospital hallways, pleading with God to grant her healing. When the brain scan results came back, the doctor walked into the room and invited us to sit down. He spoke quietly and said he was sorry. Then he shared that Esther was not going to wake up from this seizure. This time, the seizure and effects from it had caused too much damage. She would only have a couple more days to live. I collapsed to the floor, my head in my hands, sobbing uncontrollably. In that moment, my trust in God felt betrayed, hollowed out, and full of questions. 

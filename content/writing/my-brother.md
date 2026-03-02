@@ -8,6 +8,9 @@ images:
     - /images/writing/jr_2023.jpeg
 ---
 
+*A poem written for Landon. Read at he and Hannah's wedding, January 14, 2023*
+______
+
 have you ever met a kid who loved video games too much? 
 he’d play for 10 hours straight and skip breakfast and lunch 
 .

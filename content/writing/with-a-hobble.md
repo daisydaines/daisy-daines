@@ -8,6 +8,9 @@ images:
     - /images/writing/ljgb_ekp.JPG
 ---
 
+*A memory from my time as a missionary.*
+______
+
 Emery County is full of farms. There are so many farms that the cow population outnumbers the people population. I spent the first six months of my missionary service in this desert county. Emery is home to roughly 10,000 people who are scattered amongst a handful of towns and villages– nothing big enough to call a city. The desert wasteland reminds you of the movie Holes. You can see for miles and miles and miles and the only reason people live there is because they run the farm they inherited or they live on the hope of discovering Butch Cassidy’s hidden gold. 
 
 A few weeks into my missionary service my companion, Elder Finnie, and I were asked to preach in the coming Sunday’s service. Finnie had served in Emery County for over six months which meant he knew everyone, including all their cows, and everyone loved him. He was a superstar. I felt like I was walking around with Matthew McConaughey every day which made me any co-star of McConaughey– irrelevant and forgettable. 

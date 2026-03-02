@@ -7,6 +7,9 @@ images:
     - /images/writing/big_kev.jpg
 ---
 
+*A poem written for Big Kev. Father's Day 2019*
+______
+
 amidst the snores and tight closed eyes
 
 the soldier wakes and kneels to rise

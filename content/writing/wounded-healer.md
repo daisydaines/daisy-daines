@@ -8,6 +8,9 @@ images:
     - /images/writing/esther_casket.jpeg
 ---
 
+*A poem written for Esther G*
+______
+
 It’s dark, calm and quiet outside,
 
 but Esther’s up before sunrise

@@ -9,6 +9,9 @@ images:
     - /images/writing/grace_2022.jpeg
 ---
 
+*A poem written for Grace. Mother's Day 2022*
+______
+
 on business in Chicago 
 a stressed single mom of four,
 trying to make a life for her kids, 
