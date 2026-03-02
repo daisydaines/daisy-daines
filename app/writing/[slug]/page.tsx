@@ -4,6 +4,16 @@ import { getAllWritings, getWriting } from "@/lib/writing";
 import { BackButton } from "@/components/BackButton";
 import { HeroCarousel } from "@/components/HeroCarousel";
 
+function renderInline(text: string) {
+  return text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/).map((part, i) => {
+    if (part.startsWith("**") && part.endsWith("**"))
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    if (part.startsWith("*") && part.endsWith("*"))
+      return <em key={i}>{part.slice(1, -1)}</em>;
+    return part;
+  });
+}
+
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -66,7 +76,7 @@ export default async function WritingPage({
             className="text-foreground/70 leading-8 whitespace-pre-line"
             style={{ fontFamily: "var(--font-lora)", fontSize: "1.075rem" }}
           >
-            {para}
+            {renderInline(para)}
           </p>
         ))}
       </div>
