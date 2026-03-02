@@ -1,6 +1,6 @@
 ---
 title: "fighting soldier"
-date: "2019-09-19"
+date: "2018-06-20"
 type: "poem"
 published: "public"
 images: 
