@@ -1,5 +1,5 @@
 ---
-title: "changed the world "
+title: "changed the world"
 date: "2022-05-08"
 type: "poem"
 published: "public"
@@ -37,9 +37,9 @@ because she’s divinely given
 and she had hopes and dreams 
 to one day change the world
 some encouraged and some laughed 
-“Oh, what a precious, little girl”
+*“Oh, what a precious, little girl”*
 
-and i can tell sometimes she thinks
+and i can tell she sometimes thinks
 her life hasn’t gone to plan 
 but i would just remind her
 the same happened to that man
@@ -50,16 +50,17 @@ it seems to be their family story
 from the first page to the last 
 
 and even though that story 
-isn’t exactly as she’d drawn out 
+isn’t exactly as she wrote it out 
 maybe now it’s better 
 because the Author’s the editor now
 
 so on those days when all is bleak,
-clouded by shame or regret,
+with clouds of shame and regret,
 she probably thinks back to her dreams 
 how could she forget 
 
-of how she wished she could have made    a splash with her degree 
+of how she wished she could have made 
+a splash with her degree 
 or had a brilliant idea
 that changed the course of history 
 
@@ -74,6 +75,6 @@ of this life that we began
 that day you stole my heart 
 
 and if it weren’t for you we wouldn’t have
-our precious, little girl
+*our precious, little girl*
 that is why, in my eyes,
 you’ve already changed the world 💛
