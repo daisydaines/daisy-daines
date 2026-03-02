@@ -12,6 +12,7 @@ export interface Writing {
   type: "poem" | "journal";
   published: "public" | "private";
   image?: string;
+  images?: string[];
   content: string;
 }
 
@@ -42,6 +43,11 @@ export function getAllWritings({
         type: (data.type ?? "poem") as "poem" | "journal",
         published: (data.published ?? "public") as "public" | "private",
         image: data.image as string | undefined,
+        images: data.images
+          ? (data.images as string[])
+          : data.image
+          ? [data.image as string]
+          : undefined,
       };
     })
     .filter((w) => includePrivate || w.published !== "private")
@@ -63,6 +69,11 @@ export function getWriting(slug: string): Writing | null {
     type: (data.type ?? "poem") as "poem" | "journal",
     published: (data.published ?? "public") as "public" | "private",
     image: data.image as string | undefined,
+    images: data.images
+      ? (data.images as string[])
+      : data.image
+      ? [data.image as string]
+      : undefined,
     content: content.trim(),
   };
 }

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getAllWritings, getWriting } from "@/lib/writing";
 import { BackButton } from "@/components/BackButton";
+import { HeroCarousel } from "@/components/HeroCarousel";
 
 export const dynamicParams = false;
 
@@ -38,27 +38,13 @@ export default async function WritingPage({
         <BackButton />
       </div>
 
-      {writing.image ? (
-        <div className="relative w-full h-52 mb-14 overflow-hidden rounded-sm">
-          <Image
-            src={writing.image}
-            alt={writing.title}
-            fill
-            className="object-cover"
-          />
-          <div className="absolute inset-0 bg-black/60" />
-          <div className="absolute bottom-0 left-0 p-6">
-            <p className="font-mono text-[10px] text-white/40 uppercase tracking-widest mb-3">
-              {writing.type} · {writing.dateDisplay}
-            </p>
-            <h1
-              className="text-3xl text-white/90 leading-snug"
-              style={{ fontFamily: "var(--font-lora)", fontStyle: "italic" }}
-            >
-              {writing.title}
-            </h1>
-          </div>
-        </div>
+      {writing.images ? (
+        <HeroCarousel
+          images={writing.images}
+          title={writing.title}
+          type={writing.type}
+          dateDisplay={writing.dateDisplay}
+        />
       ) : (
         <>
           <p className="font-mono text-[10px] text-foreground/25 uppercase tracking-widest mb-5">

@@ -3,6 +3,9 @@ title: "but which name"
 date: "2019-10-14"
 type: "journal"
 published: "public"
+images: 
+    - /images/writing/gaw.jpg
+    - /images/writing/sc.jpeg
 ---
 
 Today I was reminded of a thought I had a few Sundays ago when I enjoyed a powerful sermon. President Moon is a compelling speaker and successful businessman. This was easy to detect from his approach and delivery of his message.

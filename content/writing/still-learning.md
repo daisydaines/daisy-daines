@@ -3,6 +3,9 @@ title: "still learning"
 date: "2026-02-24"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/guys_guys.jpeg
+    - /images/writing/garage_gym.jpeg
 ---
 
 there is a version of me

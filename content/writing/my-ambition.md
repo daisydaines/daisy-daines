@@ -3,6 +3,8 @@ title: "my ambition…"
 date: "2019-11-19"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/kurty.jpg
 ---
 
 There’s too much suffering in this world for me to look inward at myself

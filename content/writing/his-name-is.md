@@ -3,6 +3,8 @@ title: "his name is"
 date: "2019-12-20"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/dec_20.jpeg
 ---
 
 His birth and life had been foretold 

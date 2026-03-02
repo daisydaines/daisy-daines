@@ -3,6 +3,8 @@ title: "this banker's heart"
 date: "2020-06-28"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/yahboi.jpg
 ---
 
 when the sun says goodbye 

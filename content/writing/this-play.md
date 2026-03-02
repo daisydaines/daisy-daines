@@ -3,6 +3,8 @@ title: "this play"
 date: "2019-09-12"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/cv_doors.jpg
 ---
 
 my memory of that night is still very clear

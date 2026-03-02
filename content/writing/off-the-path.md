@@ -3,6 +3,9 @@ title: "off the path"
 date: "2019-10-07"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/yb.jpg
+    - /images/writing/yb_eg.jpeg
 ---
 
 if most answer yes he’ll likely say no

@@ -3,6 +3,8 @@ title: "convicted"
 date: "2019-11-04"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/boys_rr.jpeg
 ---
 
 across counties and states 

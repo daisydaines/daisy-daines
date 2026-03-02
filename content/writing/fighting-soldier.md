@@ -3,6 +3,8 @@ title: "fighting soldier"
 date: "2019-09-19"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/big_kev.jpg
 ---
 
 amidst the snores and tight closed eyes

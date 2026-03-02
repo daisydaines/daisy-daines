@@ -3,6 +3,9 @@ title: "with a hobble"
 date: "2019-10-22"
 type: "journal"
 published: "public"
+images: 
+    - /images/writing/bdubs.jpg
+    - /images/writing/ljgb_ekp.jpg
 ---
 
 Emery County is full of farms. There are so many farms that the cow population outnumbers the people population. I spent the first six months of my missionary service in this desert county. Emery is home to roughly 10,000 people who are scattered amongst a handful of towns and villages– nothing big enough to call a city. The desert wasteland reminds you of the movie Holes. You can see for miles and miles and miles and the only reason people live there is because they run the farm they inherited or they live on the hope of discovering Butch Cassidy’s hidden gold. 
