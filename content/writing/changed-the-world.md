@@ -4,7 +4,7 @@ date: "2022-05-08"
 type: "poem"
 published: "public"
 images: 
-    - /images/writing/grace_2021.jpg
+    - /images/writing/grace_2021.JPG
     - /images/writing/grace_eg_2022.jpeg
     - /images/writing/grace_2022.jpeg
 ---

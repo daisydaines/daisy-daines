@@ -5,7 +5,7 @@ type: "poem"
 published: "public"
 images: 
     - /images/writing/esther_hospital.jpeg
-    - /images/writing/esther_lake.jpg
+    - /images/writing/esther_lake.JPG
 ---
 
 It didn’t take long for me to surrender

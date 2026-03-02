@@ -4,7 +4,7 @@ date: "2019-10-14"
 type: "journal"
 published: "public"
 images: 
-    - /images/writing/gaw.jpg
+    - /images/writing/gaw.JPG
     - /images/writing/sc.jpeg
 ---
 
