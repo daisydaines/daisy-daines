@@ -1,7 +1,7 @@
 ---
 title: "dravet day"
 date: "2024-06-23"
-type: "poem"
+type: "journal"
 published: "public"
 images: 
     - /images/writing/eg_tired.jpg
