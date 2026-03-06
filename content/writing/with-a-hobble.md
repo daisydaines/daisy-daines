@@ -4,8 +4,8 @@ date: "2019-10-22"
 type: "journal"
 published: "public"
 images: 
-    - /images/writing/bdubs.JPG
-    - /images/writing/ljgb_ekp.JPG
+    - /images/writing/bdubs.jpg
+    - /images/writing/ljgb_ekp.jpg
 ---
 
 *A memory from my time as a missionary.*

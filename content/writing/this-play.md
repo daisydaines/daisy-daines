@@ -4,7 +4,7 @@ date: "2019-07-23"
 type: "poem"
 published: "public"
 images: 
-    - /images/writing/cv_doors.JPG
+    - /images/writing/cv_doors.jpg
 ---
 
 my memory of that night is still very clear

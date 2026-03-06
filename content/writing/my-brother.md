@@ -4,7 +4,7 @@ date: "2023-01-14"
 type: "poem"
 published: "public"
 images: 
-    - /images/writing/jr_sc2019.JPG
+    - /images/writing/jr_sc2019.jpg
     - /images/writing/jr_2023.jpeg
 ---
 

@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Lora } from "next/font/google";
+import { CommandPalette } from "@/components/CommandPalette";
+import { KeyboardShortcuts } from "@/components/KeyboardShortcuts";
+import { Providers } from "@/components/Providers";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -21,6 +24,9 @@ const lora = Lora({
 export const metadata: Metadata = {
   title: "daisydaines",
   description: "builder. poet. future dunker.",
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "daisydaines",
     description: "builder. poet. future dunker.",
@@ -35,11 +41,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${lora.variable} antialiased`}
       >
-        {children}
+        <Providers>
+          <CommandPalette />
+          <KeyboardShortcuts />
+          {children}
+        </Providers>
       </body>
     </html>
   );

@@ -2,14 +2,15 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { Github, Twitter, Linkedin, ArrowDown } from "lucide-react";
+import { Github, Linkedin, ArrowDown } from "lucide-react";
+import { XIcon } from "./XIcon";
 import { Aurora } from "./Aurora";
 import { TypewriterTagline } from "./TypewriterTagline";
 import { social } from "@/lib/data";
 
 const iconMap: Record<string, React.ComponentType<{ size?: number }>> = {
   github: Github,
-  twitter: Twitter,
+  "x.com": XIcon,
   linkedin: Linkedin,
 };
 

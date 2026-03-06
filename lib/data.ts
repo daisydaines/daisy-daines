@@ -40,7 +40,7 @@ export const personalProjects: Project[] = [
   {
     name: "dirtybirdcrew",
     description:
-      "march madness bracket group. tracking history, growth, and glory since day one.",
+      "march madness bracket group. tracking history, growth and glory since day one.",
     url: "https://dbc-kappa.vercel.app/",
     tag: "shipped",
     isLive: true,
@@ -48,7 +48,7 @@ export const personalProjects: Project[] = [
   {
     name: "missionapp",
     description:
-      "lds mission boundaries and info for prospective missionaries, built by a previous one.",
+      "lds mission boundaries and info for prospective missionaries & their families.",
     url: "https://mission-app.onrender.com/",
     tag: "shipped",
     isLive: true,
@@ -160,10 +160,10 @@ export const goals = {
   dunk: {
     label: "dunk",
     description: "dunk a basketball",
-    current: 27,
+    current: 28,
     target: 34,
     unit: '"',
-    note: "need +7 inches",
+    note: "need +6 inches",
   },
 };
 
@@ -174,13 +174,13 @@ export const liftsMetadata = {
 
 export const lifts: Lift[] = [
   { label: "bench", value: 245, previous: 240, unit: "lbs" },
-  { label: "squat", value: 318, previous: 310, unit: "lbs" },
-  { label: "deadlift", value: 337, previous: 324, unit: "lbs" },
+  { label: "squat", value: 320, previous: 310, unit: "lbs" },
+  { label: "deadlift", value: 350, previous: 335, unit: "lbs" },
   { label: "pullups", value: 11, previous: 10, unit: "reps" },
 ];
 
 export const social = [
   { label: "github", url: "https://github.com/daisydaines" },
-  { label: "twitter", url: "https://twitter.com/daisydaines" },
+  { label: "x.com", url: "https://x.com/daisydaines" },
   { label: "linkedin", url: "https://www.linkedin.com/in/daisy-daines-2766a4217" },
 ];

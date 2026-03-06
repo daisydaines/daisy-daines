@@ -52,7 +52,7 @@ export function HeroCarousel({ images, title, type, dateDisplay }: HeroCarouselP
             <button
               key={i}
               onClick={() => setCurrent(i)}
-              className="w-1.5 h-1.5 rounded-full transition-colors duration-300"
+              className="w-1.5 h-1.5 rounded-full transition-colors duration-300 cursor-pointer"
               style={{ background: i === current ? "rgba(255,255,255,0.8)" : "rgba(255,255,255,0.3)" }}
               aria-label={`Go to image ${i + 1}`}
             />

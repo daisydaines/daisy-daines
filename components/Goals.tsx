@@ -116,51 +116,54 @@ export function Goals() {
             </div>
           </motion.div>
 
-          {/* Body fat */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.4, delay: 0.08 }}
-            className="p-5 rounded-xl border border-border bg-card"
-          >
-            <div className="flex items-center justify-between mb-4">
-              <span className="font-mono text-xs text-foreground/30 uppercase tracking-widest">
-                body fat
-              </span>
-              <span className="font-mono text-[10px] text-emerald-400/70 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded-full">
-                on track
-              </span>
-            </div>
-            <div className="flex items-baseline gap-1 mb-1">
-              <span className="font-mono text-2xl font-semibold text-foreground/80">
-                {goals.bodyFat.current}
-              </span>
-              <span className="font-mono text-sm text-foreground/40">%</span>
-              <span className="font-mono text-xs text-foreground/25 ml-1">
-                / &lt;{goals.bodyFat.target}% target
-              </span>
-            </div>
-            <p className="font-mono text-[11px] text-foreground/25">
-              last dexa: {goals.bodyFat.lastMeasured} · next:{" "}
-              {goals.bodyFat.nextScan}
-            </p>
-            {/* bar: 13.3% on a 0-20% scale */}
-            <div className="w-full h-1 bg-foreground/8 rounded-full overflow-hidden mt-3 relative">
-              {/* target line at 15/20 = 75% */}
-              <div
-                className="absolute top-0 bottom-0 w-px bg-emerald-400/40 z-10"
-                style={{ left: "75%" }}
-              />
+          {/* 1000lb Club */}
+          {(() => {
+            const bigThree = lifts.filter((l) =>
+              ["bench", "squat", "deadlift"].includes(l.label)
+            );
+            const total = bigThree.reduce((sum, l) => sum + (l.value ?? 0), 0);
+            const target = 1000;
+            const remaining = target - total;
+            return (
               <motion.div
-                className="h-full rounded-full bg-emerald-400/40"
-                initial={{ width: 0 }}
-                whileInView={{ width: `${(13.3 / 20) * 100}%` }}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                transition={{ duration: 1, delay: 0.3, ease: "easeOut" }}
-              />
-            </div>
-          </motion.div>
+                transition={{ duration: 0.4, delay: 0.08 }}
+                className="p-5 rounded-xl border border-border bg-card"
+              >
+                <div className="flex items-center justify-between mb-4">
+                  <span className="font-mono text-xs text-foreground/30 uppercase tracking-widest">
+                    1000lb club
+                  </span>
+                  <span className="font-mono text-[10px] text-sky-400/70 bg-sky-500/10 border border-sky-500/20 px-2 py-0.5 rounded-full">
+                    {remaining > 0 ? `${remaining} lbs away` : "achieved"}
+                  </span>
+                </div>
+                <div className="flex items-baseline gap-1 mb-1">
+                  <span className="font-mono text-2xl font-semibold text-foreground/80">
+                    {total}
+                  </span>
+                  <span className="font-mono text-sm text-foreground/40">lbs</span>
+                  <span className="font-mono text-xs text-foreground/25 ml-1">
+                    / {target} lbs
+                  </span>
+                </div>
+                <p className="font-mono text-[11px] text-foreground/25">
+                  bench · squat · deadlift
+                </p>
+                <div className="w-full h-1 bg-foreground/8 rounded-full overflow-hidden mt-3">
+                  <motion.div
+                    className="h-full rounded-full bg-sky-400/50"
+                    initial={{ width: 0 }}
+                    whileInView={{ width: `${Math.min(100, (total / target) * 100)}%` }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 1, delay: 0.3, ease: "easeOut" }}
+                  />
+                </div>
+              </motion.div>
+            );
+          })()}
 
           {/* Dunk */}
           <motion.div

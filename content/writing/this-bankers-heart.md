@@ -4,7 +4,7 @@ date: "2020-06-28"
 type: "poem"
 published: "public"
 images: 
-    - /images/writing/yahboi.JPG
+    - /images/writing/yahboi.jpg
 ---
 
 when the sun says goodbye 

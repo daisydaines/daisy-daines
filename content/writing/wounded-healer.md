@@ -4,7 +4,7 @@ date: "2024-05-07"
 type: "poem"
 published: "public"
 images: 
-    - /images/writing/esther.JPG
+    - /images/writing/esther.jpg
     - /images/writing/esther_casket.jpeg
 ---
 
