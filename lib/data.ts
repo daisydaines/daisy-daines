@@ -25,7 +25,7 @@ export const personalProjects: Project[] = [
   {
     name: "relationshipOS",
     description:
-      "be there for the people that matter in a genuine and intentional ways.",
+      "be there for the people that matter in genuine and intentional ways.",
     url: "https://mobile-rolodex.vercel.app/",
     tag: "building",
     isLive: true,
