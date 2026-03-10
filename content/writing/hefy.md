@@ -4,8 +4,8 @@ date: "2019-11-03"
 type: "journal"
 published: "public"
 images: 
-    - /images/writing/hefy.JPG
     - /images/writing/sweaty.JPG
+    - /images/writing/hefy_crop.JPG
 ---
 
 *Why we should choose you as an HEFY Trip Leader? (please respond in 500 characters or less, approx. 250 words)*
