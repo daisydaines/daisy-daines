@@ -1,8 +1,12 @@
 ---
-title: "idaho state university"
+title: "uvu to isu"
 date: "2021-05-13"
 type: "journal"
 published: "public"
+images: 
+    - /images/writing/uvu-mask.jpeg
+    - /images/writing/pro-photo.jpg
+    - /images/writing/dinner-grace.jpeg
 ---
 
 92. 

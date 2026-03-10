@@ -30,7 +30,7 @@ export default function WritingPage() {
       <Nav />
       <div className="px-6 md:px-12 pt-32 pb-24 max-w-5xl mx-auto">
         <div className="mb-14">
-          <BackButton />
+          <BackButton href="/" />
         </div>
 
         <WritingList writings={writings} />
