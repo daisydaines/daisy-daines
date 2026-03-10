@@ -8,7 +8,6 @@ images:
     - /images/writing/vegas.jpeg
     - /images/writing/me_and_eg.jpeg
 ---
-
 *A sermon given at the Saturday night session of Stake Confernce. Sept 20, 2025*
 ______
 

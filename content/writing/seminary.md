@@ -7,7 +7,6 @@ images:
     - /images/writing/yt.jpeg
     - /images/writing/rafa.JPG
 ---
-
 *Student teaching experience Pleasant Grove High School Seminary*
 
 --

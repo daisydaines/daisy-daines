@@ -58,7 +58,7 @@ export function getAdjacentWritings(slug: string): {
   prev: Omit<Writing, "content"> | null;
   next: Omit<Writing, "content"> | null;
 } {
-  const all = getAllWritings({ includePrivate: true });
+  const all = getAllWritings({ includePrivate: false });
   const index = all.findIndex((w) => w.slug === slug);
   if (index === -1) return { prev: null, next: null };
   // sorted newest-first, so "prev" = older (higher index), "next" = newer (lower index)

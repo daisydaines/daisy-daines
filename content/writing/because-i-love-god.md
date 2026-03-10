@@ -4,9 +4,8 @@ date: "2024-10-28"
 type: "journal"
 published: "public"
 images: 
-    - /images/writing/remi-church.jpeg
+    - /images/writing/remi-and-judah-church.jpeg
 ---
-
 *Sunday thoughts*
 
 I feel like its common to hear people say, “we go to church because we love god…”

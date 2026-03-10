@@ -8,6 +8,8 @@ images:
     - /images/writing/pro-photo.jpg
     - /images/writing/dinner-grace.jpeg
 ---
+*A short essay for my master's program application on why I want to puruse the Sports Adminsinstration program at Idaho State University 🐅*
+__
 
 92. 
 

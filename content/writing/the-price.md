@@ -7,7 +7,6 @@ images:
     - /images/writing/longhorn-cross.JPG
     - /images/writing/the-cross.JPG
 ---
-
 was He betrayed with a kiss?
 or with a heart lost in greed? 
 we say we’ll never leave Jesus

@@ -7,7 +7,6 @@ images:
     - /images/writing/farmers-marketv2.jpeg
     - /images/writing/remi-acquarium.jpeg
 ---
-
 *Sunday thoughts*
 
 “We love thee, Lord, our hearts are full. We’ll walk thy chosen way”

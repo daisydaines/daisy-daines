@@ -4,7 +4,6 @@ date: "2019-09-30"
 type: "journal"
 published: "private"
 ---
-
 do you see it? 
 
 so casual. a small gesture compared to its powerful meaning. 

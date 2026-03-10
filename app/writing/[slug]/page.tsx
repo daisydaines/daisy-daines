@@ -6,7 +6,7 @@ import { BackButton } from "@/components/BackButton";
 import { HeroCarousel } from "@/components/HeroCarousel";
 
 function renderInline(text: string) {
-  return text.split(/(\*\*[^*]+\*\*|\*[^*]+\*|\[[^\]]+\]\([^)]+\))/).map((part, i) => {
+  return text.split(/(\*\*[^*]+\*\*|\*[^*]+\*|\[[^\]]+\]\([^)]+\)|\{[a-z]+:[^}]+\})/).map((part, i) => {
     if (part.startsWith("**") && part.endsWith("**"))
       return <strong key={i}>{part.slice(2, -2)}</strong>;
     if (part.startsWith("*") && part.endsWith("*"))
@@ -14,6 +14,9 @@ function renderInline(text: string) {
     const linkMatch = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
     if (linkMatch)
       return <a key={i} href={linkMatch[2]} target="_blank" rel="noopener noreferrer" className="underline">{linkMatch[1]}</a>;
+    const colorMatch = part.match(/^\{([a-z]+):([^}]+)\}$/);
+    if (colorMatch)
+      return <span key={i} style={{ color: colorMatch[1] }}>{colorMatch[2]}</span>;
     return part;
   });
 }

@@ -8,7 +8,6 @@ images:
     - /images/writing/easter-church.jpeg
     - /images/writing/easter-esther.jpeg
 ---
-
 Sitting in Product Coordination Meeting again this week for Checkout Optimization. 
 
 I came in late because Blakely messaged me and asked if I was joining the meeting. 

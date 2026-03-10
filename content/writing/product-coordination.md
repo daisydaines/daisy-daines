@@ -5,10 +5,9 @@ type: "journal"
 published: "public"
 images: 
     - /images/writing/remi-and-judah.jpeg
-    - /images/writing/easter.jpeg
+    - /images/writing/sunday-dinner.jpeg
     - /images/writing/shi-bday.jpeg
 ---
-
 Conversion Cloud Product Coordination Meeting
 
 The meeting was midday during lunch. We met in the boardroom and several people grabbed a plate of food to eat while listening.

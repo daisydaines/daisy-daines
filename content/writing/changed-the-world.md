@@ -8,7 +8,6 @@ images:
     - /images/writing/grace_eg_2022.jpeg
     - /images/writing/grace_2022.jpeg
 ---
-
 *A poem written for Grace. Mother's Day 2022*
 ______
 

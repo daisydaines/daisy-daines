@@ -7,7 +7,6 @@ images:
     - /images/writing/bdubs.jpg
     - /images/writing/ljgb_ekp.jpg
 ---
-
 *A memory from my time as a missionary.*
 ______
 

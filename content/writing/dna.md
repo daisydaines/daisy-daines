@@ -6,8 +6,8 @@ published: "public"
 images: 
     - /images/writing/mouse.PNG
 ---
-
 *A poem written for Genetics (BIOL 3500) class*
+--
 
 In order for DNA to replicate it requires a complex machine. 
 The replication begins at a sequence called OriC

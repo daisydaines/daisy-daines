@@ -7,7 +7,6 @@ images:
     - /images/writing/gaw.jpg
     - /images/writing/sc.jpeg
 ---
-
 Today I was reminded of a thought I had a few Sundays ago when I enjoyed a powerful sermon. President Moon is a compelling speaker and successful businessman. This was easy to detect from his approach and delivery of his message.
 
 That particular Sunday he focused on the blessing of the Sacrament. The promises we, as covenant makers, agree to and the promised blessings we can receive. He asked the group, “What specifically do the prayers say in regard to any one of the covenants we are renewing as we partake of the Sacrament?” Scriptures opened, pages turned, and screens lit up as the hunt began. 
@@ -28,4 +27,4 @@ I LOVE the title Advocate for my Jesus. It’s who I need most often and how I w
 
 I have a friend, a best friend, who is an advocate in my life. He may not defend the opposing team well on the court, but he’d defend me if I was convicted in court. He’s too kind to throw hands against me, but I KNOW he’d fight against my enemies if I got into trouble. We don’t always cheer for the same team, but we believe the same thing. He’s the one next to me in the picture. On my side. Time has a funny way of changing the seating arrangements. Recently I’ve been demoted to his back seat, but I know he’ll always have my back.
 
-Pick a Jesus name and rep Him this week. It’s your best jersey you can wear. ❤
+Pick a Jesus name and rep Him this week. It’s your best jersey you can wear. 💛

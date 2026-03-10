@@ -6,7 +6,6 @@ published: "public"
 images: 
     - /images/writing/jansy.jpg
 ---
-
 a boy with a smile so contagious.
 a gift, he was God-sent and gracious. 
 touched each of our lives

@@ -1,10 +1,13 @@
 ---
-title: "the redo exp: pre-ramp"
-date: "2025-09-15"
+title: "the redo exp: ramping"
+date: "2024-09-16"
 type: "journal"
 published: "public"
+images: 
+    - /images/writing/redo-hat.jpeg
+    - /images/writing/judah-boy.jpeg
+    - /images/writing/ramping.jpeg
 ---
-
 Blakely is the type of guy that if you saw him walking on the street, you’d think he owned his own outdoor clothing shop. 
 
 He reps hoodies, sweaters, hats, joggers, athletic shoes, and has that vibe of someone who is confident, but not cocky. 

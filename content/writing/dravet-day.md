@@ -8,7 +8,6 @@ images:
     - /images/writing/eg_drained2.jpg
     - /images/writing/eg_sleep2.jpg
 ---
-
 Last night Grace reminded me that today, June 23rd, is International Dravet Syndrome Awareness Day.
 
 The Dravet Foundation lists one characteristic of children with Dravet syndrome that is unlike many of the medical or behavioral challenges that Dravet patients face. The website says, “children with Dravet syndrome can exhibit a variety of behaviors, including being overly social…” 

@@ -1,12 +1,11 @@
 ---
 title: "the redo exp: hire"
-date: "2025-09-11"
+date: "2024-09-11"
 type: "journal"
 published: "public"
 images: 
     - /images/writing/flight-home.jpeg
 ---
-
 After a call with Shi, 
 a case with Cam, 
 another case with Blakely, 

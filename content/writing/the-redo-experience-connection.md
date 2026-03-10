@@ -1,13 +1,12 @@
 ---
 title: "the redo exp: connection"
-date: "2025-08-24"
+date: "2024-08-24"
 type: "journal"
 published: "public"
 images: 
     - /images/writing/farmers-market.jpeg
     - /images/writing/remi-walk.jpeg
 ---
-
 I had been applying for jobs since July 10th. 
 
 It had been six weeks of applying to dozens of jobs and with very few bites. 

@@ -7,7 +7,6 @@ images:
     - /images/writing/esther_hospital.jpeg
     - /images/writing/esther_lake.jpg
 ---
-
 *A poem written for my coworker and manager, Jen, on her last day of work.*
 ______
 

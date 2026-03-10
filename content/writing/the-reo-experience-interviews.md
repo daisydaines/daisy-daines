@@ -1,13 +1,12 @@
 ---
 title: "the redo exp: interviews"
-date: "2025-09-05"
+date: "2024-09-05"
 type: "journal"
 published: "public"
 images: 
     - /images/writing/jesus.jpeg
     - /images/writing/he-is-with-you.jpeg
 ---
-
 I read anything and everything I could find on Redo in order to excel during the interviews. 
 
 If this was my only chance, I wasn’t going to leave any question that I was the guy. 

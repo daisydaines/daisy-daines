@@ -6,7 +6,6 @@ published: "public"
 images: 
     - /images/writing/jansy.jpg
 ---
-
 ya know those memories that never seem to fade? 
 the ones that have stuck with you since second grade
 some are the ones that you don't want to stay, 

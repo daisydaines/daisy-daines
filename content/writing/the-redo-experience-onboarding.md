@@ -1,12 +1,11 @@
 ---
 title: "the redo exp: onboarding"
-date: "2025-09-20"
+date: "2024-09-20"
 type: "journal"
 published: "public"
 images: 
     - /images/writing/hat-friday.jpeg
 ---
-
 Sterling is a sharp dude. 
 
 He is very much a down to business type of guy, but I sense he can let loose and have fun from time to time. 

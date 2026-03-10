@@ -7,7 +7,6 @@ images:
     - /images/writing/jr_sc2019.jpg
     - /images/writing/jr_2023.jpeg
 ---
-
 *A poem written for Landon. Read at he and Hannah's wedding, January 14, 2023*
 ______
 
