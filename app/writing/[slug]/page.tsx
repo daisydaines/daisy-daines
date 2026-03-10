@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getAllWritings, getWriting } from "@/lib/writing";
+import Link from "next/link";
+import { getAllWritings, getAdjacentWritings, getWriting } from "@/lib/writing";
 import { BackButton } from "@/components/BackButton";
 import { HeroCarousel } from "@/components/HeroCarousel";
 
@@ -43,12 +44,13 @@ export default async function WritingPage({
   const writing = getWriting(slug);
   if (!writing) notFound();
 
+  const { prev, next } = getAdjacentWritings(slug);
   const paragraphs = writing.content.split(/\n\n+/);
 
   return (
     <main className="min-h-screen px-6 py-24 max-w-lg mx-auto">
       <div className="mb-20">
-        <BackButton />
+        <BackButton href="/writing" />
       </div>
 
       {writing.images ? (
@@ -82,6 +84,30 @@ export default async function WritingPage({
             {renderInline(para)}
           </p>
         ))}
+      </div>
+
+      <div className="mt-20 pt-8 border-t border-foreground/10 flex justify-between gap-6">
+        {prev ? (
+          <Link href={`/writing/${prev.slug}`} className="group flex flex-col gap-1 max-w-[45%]">
+            <span className="font-mono text-[10px] text-foreground/30 uppercase tracking-widest flex items-center gap-1">
+              <span>←</span> previous
+            </span>
+            <span className="text-foreground/60 text-sm group-hover:text-foreground/90 transition-colors" style={{ fontFamily: "var(--font-lora)", fontStyle: "italic" }}>
+              {prev.title}
+            </span>
+          </Link>
+        ) : <div />}
+
+        {next ? (
+          <Link href={`/writing/${next.slug}`} className="group flex flex-col gap-1 items-end max-w-[45%]">
+            <span className="font-mono text-[10px] text-foreground/30 uppercase tracking-widest flex items-center gap-1">
+              next <span>→</span>
+            </span>
+            <span className="text-foreground/60 text-sm group-hover:text-foreground/90 transition-colors text-right" style={{ fontFamily: "var(--font-lora)", fontStyle: "italic" }}>
+              {next.title}
+            </span>
+          </Link>
+        ) : <div />}
       </div>
     </main>
   );

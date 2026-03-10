@@ -54,6 +54,20 @@ export function getAllWritings({
     .sort((a, b) => b.date.localeCompare(a.date));
 }
 
+export function getAdjacentWritings(slug: string): {
+  prev: Omit<Writing, "content"> | null;
+  next: Omit<Writing, "content"> | null;
+} {
+  const all = getAllWritings({ includePrivate: true });
+  const index = all.findIndex((w) => w.slug === slug);
+  if (index === -1) return { prev: null, next: null };
+  // sorted newest-first, so "prev" = older (higher index), "next" = newer (lower index)
+  return {
+    prev: index < all.length - 1 ? all[index + 1] : null,
+    next: index > 0 ? all[index - 1] : null,
+  };
+}
+
 export function getWriting(slug: string): Writing | null {
   const filePath = path.join(WRITING_DIR, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
