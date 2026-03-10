@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { ArrowUpRight, ArrowRight } from "lucide-react";
 
@@ -13,8 +13,18 @@ type WritingItem = {
 
 type Filter = "all" | "journal" | "poems";
 
+const SCROLL_KEY = "writing-list-scroll";
+
 export function WritingList({ writings }: { writings: WritingItem[] }) {
   const [filter, setFilter] = useState<Filter>("all");
+
+  useEffect(() => {
+    const saved = sessionStorage.getItem(SCROLL_KEY);
+    if (saved) {
+      window.scrollTo(0, parseInt(saved, 10));
+      sessionStorage.removeItem(SCROLL_KEY);
+    }
+  }, []);
 
   const filtered =
     filter === "all"
@@ -55,6 +65,7 @@ export function WritingList({ writings }: { writings: WritingItem[] }) {
                 href={w.url}
                 target={isExternal ? "_blank" : undefined}
                 rel={isExternal ? "noopener noreferrer" : undefined}
+                onClick={() => sessionStorage.setItem(SCROLL_KEY, String(window.scrollY))}
                 className="group flex items-center justify-between py-4 hover:pl-1 transition-all duration-150"
               >
                 <span

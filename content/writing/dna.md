@@ -3,6 +3,8 @@ title: "dna"
 date: "2021-02-16"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/mouse.PNG
 ---
 
 *A poem written for Genetics (BIOL 3500) class*

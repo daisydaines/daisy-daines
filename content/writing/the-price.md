@@ -3,6 +3,9 @@ title: "the price"
 date: "2019-11-01"
 type: "poem"
 published: "public"
+images: 
+    - /images/writing/longhorn-cross.JPG
+    - /images/writing/the-cross.JPG
 ---
 
 was He betrayed with a kiss?

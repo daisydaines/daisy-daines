@@ -3,6 +3,9 @@ title: "pleasant grove seminary"
 date: "2020-04-19"
 type: "journal"
 published: "public"
+images: 
+    - /images/writing/yt.jpeg
+    - /images/writing/rafa.JPG
 ---
 
 *Student teaching experience Pleasant Grove High School Seminary*
