@@ -102,7 +102,7 @@ export default async function ActivityPage() {
               writing
             </h2>
             <a
-              href="https://daisydaines.wordpress.com/"
+              href="/writing"
               target="_blank"
               rel="noopener noreferrer"
               className="font-mono text-[10px] text-foreground/20 hover:text-foreground/50 transition-colors"
