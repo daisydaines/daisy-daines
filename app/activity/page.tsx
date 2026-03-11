@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 const WEEKS = 13;
 
 export default async function ActivityPage() {
-  const writingData = getAllWritings().map((w) => ({ date: w.date, count: 1 }));
+  const writingData = getAllWritings({ includePrivate: true }).map((w) => ({ date: w.date, count: 1 }));
   const [githubData, fitnessData] = await Promise.all([
     fetchGitHubActivity(),
     Promise.resolve(getFitnessActivity()),
