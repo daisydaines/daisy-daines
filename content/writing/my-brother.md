@@ -23,10 +23,10 @@ and what about the kid who always gets in your head
 to the point where you throw all his belongings out the window including his bed 
 .
 or the kid from high school who attracted all the girls? 
-well, then we ain’t talkin about the same kid bc for him — girls was not plural 
+well, then we ain’t talkin' about the same kid bc for him — girls was not plural 
 .
-but all jokes aside, this kid keeps us laughin
-if you get to know him you’ll find his comedy aint lackin
+but all jokes aside, this kid keeps us laughin'
+if you get to know him you’ll find his comedy ain't lackin'
 .
 and the more you get to know him the more loyal he’ll be
 bc he doesn’t mess around when it comes to friends and family 

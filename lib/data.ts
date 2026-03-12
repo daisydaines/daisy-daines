@@ -103,7 +103,7 @@ export const poems: Poem[] = [
     date: "dec 2019",
   },
   {
-    title: "my ambition…",
+    title: "my ambition",
     url: "https://daisydaines.wordpress.com/2019/11/19/my-ambition/",
     date: "nov 2019",
   },

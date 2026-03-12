@@ -15,11 +15,11 @@ I joined the onboarding group that started this week. Today was their final day 
 
 Sterling began by reflecting on the past and his first month at Redo. He shared a picture of the team from a year before – a small office in Pleasant Grove of 12 people with big hopes for the future. 
 
-He quizzed us with questions about startups and typical growth and then shared how Redo is other-wordly in terms of revenue growth during the first two years. 
+He quizzed us with questions about startups and typical growth and then shared how Redo is other-worldy in terms of revenue growth during the first two years. 
 
 He likened Redo’s growth to Divvy and the trajectory that Redo is on compared to Divvy. 
 
-Then, it was storytime. 
+Then, it was story time. 
 
 Sterling shared a picture of three Irish school boys in their school uniforms. He told a story about the boys walking to and from school each day and always trying to climb a big stone wall. 
 

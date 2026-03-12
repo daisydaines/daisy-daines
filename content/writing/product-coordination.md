@@ -28,7 +28,7 @@ and me.
 
 Logan led the meeting and started with the numbers for the month for both the support/ai and checkout optimization products. 
 
-It's march 28th so the focus was on hitting or trying to hit stretch/qouta goals from a revenue perspective.
+It's march 28th so the focus was on hitting or trying to hit stretch and quota goals from a revenue perspective.
 
 Then, eng leads talked about eng days goals. 
 

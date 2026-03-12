@@ -20,7 +20,7 @@ Reflecting on the idea that we go to church because we love God makes me think t
 
 No emphasis on the posture of our hearts or worship in our souls. 
 
-It made me think, I want my worship experience to be different. I want to go to church not just as a check-the-box-show-my-love-to-God-kind-of-way, but to show love to God by preapring my mind and heart *AND* to show love to people by being present. 
+It made me think, I want my worship experience to be different. I want to go to church not just as a check-the-box-show-my-love-to-God-kind-of-way, but to show love to God by preparing my mind and heart *AND* to show love to people by being present. 
 
 What if part of the worship experience meant showing love to God through showing love to His people?  
 

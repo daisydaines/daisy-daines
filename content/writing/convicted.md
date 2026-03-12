@@ -12,7 +12,7 @@ robed in black with a gavel
 yet we hide our faces.
 
 “swipe left” then “swipe right”
-makin’ judgements too quickly. 
+makin’ judgments too quickly. 
 the accused has no defense
 decisions made inadequately.
 
@@ -31,14 +31,14 @@ why we playin’ one v. one?
 –
 
 the world’s quickly become 
-“double tap” and “retweet” it.
-we’re SO loved by our God, 
-but scrollings left us depleted
+“double tapped” and “retweeted”
+we’re *so* loved by our God, 
+but scrolling's left us depleted
 
 of His care and affection 
 that He shows through His Son
 Jesus died a sinner’s death 
-without commiting a single one. 
+without committing a single one. 
 
 –
 

@@ -40,7 +40,7 @@ his Champion will never falter.
 my time to fight comes soon enough
 and when it comes i pray i’m tough
 and strong and steady and never cease
-to find the power that comes from Peace.
+to seek the power that comes from Peace.
 
 –
 

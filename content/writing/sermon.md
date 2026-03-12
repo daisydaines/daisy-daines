@@ -8,7 +8,7 @@ images:
     - /images/writing/vegas.jpeg
     - /images/writing/me_and_eg.jpeg
 ---
-*A sermon given at the Saturday night session of Stake Confernce. Sept 20, 2025*
+*A sermon given at the Saturday night session of Stake Conference. Sept 20, 2025*
 ______
 
 Seizures weren’t unusual for our little Esther. At seven months old she was diagnosed with a rare form of epilepsy and suffered frequent seizures of all types and durations. Last April, my wife and I sat at Esther’s bedside in the hospital after she had suffered a seizure during the night. The doctors and nurses were doing everything they could to figure out why this one was different. After countless blood draws, heavy medications, and lab tests, they found nothing abnormal.

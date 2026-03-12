@@ -29,7 +29,7 @@ I had a recurring feeling that something needed to change. Something was nagging
 
 I didn’t see a path for growth. I had been denied my attempts to get promoted multiple times. I started to believe that my future with the company wasn't going to change any time soon. 
 
-I loved being with my family, yet also missed the social aspect of working in person with a team. My pay and medical benefits were good, not great and didn’t seem to be changing any time soon either. It was the epitome of good, not great. The perfect example of average, not exceptional. The thought of being complacent with that unchallenging work life and not challenging myself scared me. Both for me and as an example to my kids. 
+I loved being with my family, yet also missed the social aspect of working in person with a team. My pay and medical benefits were good, not great and didn’t seem to be changing any time soon either. It was the epitome of good, not great. The perfect example of average, not exceptional. The thought of being complacent with that unchallenged work life and not challenging myself scared me. Both for me and as an example to my kids. 
 
 God had a different story for me. God wanted me to grow, stretch, and change. 
 And that only comes when things are uncomfortable. In June the feeling kept coming and wouldn’t go away. Finally, in July I decided to start acting on the feeling and looking for a new job. By August I had a couple job interviews lined up and in September I had two offers.
@@ -37,7 +37,7 @@ And that only comes when things are uncomfortable. In June the feeling kept comi
 With the fear of going unchallenged still active in my mind, I opted for the more challenging job. I accepted the offer to work at Redo. 
 
 Five weeks in and the level of pressure and difficulty at Redo compared to Zartico is drastically different. 
-So much so that its hard to describe. I regulalry think to myself, "Knowing what I know now, I don't think Zartico was ever going to make it..." 
+So much so that its hard to describe. I regularly think to myself, "Knowing what I know now, I don't think Zartico was ever going to make it..." 
 
 My hope is that this will translate to growth for me and my career. 
 

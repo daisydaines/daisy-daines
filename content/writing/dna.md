@@ -21,7 +21,7 @@ These helicase structures attach before the loaders are released
 Helicase requires energy like me in the morning 
 A quick pick me up easily gets me going
 
-The DNA is unwinded like old apple headphones
+The DNA is unwound like old apple headphones
 That process took forever which is why I got the pros
 
 The helicases recruit help like team captains picking teams

@@ -5,15 +5,15 @@ type: "journal"
 published: "private"
 ---
 
-Last night I particpated in a 'Payments Strategy' meeting with Paxton, Cam W. and Blakely. All three are insanely impressively dynamic, high-agency, strategically minded individuals. 
+Last night I participated in a 'Payments Strategy' meeting with Paxton, Cam W. and Blakely. All three are insanely impressively dynamic, high-agency, strategically minded individuals. 
 
-It's obvios as soon as a meeting or brainstorm session starts that they are high caliber dudes. Their intellectual horsepower is high. 
+It's obvious as soon as a meeting or brainstorm session starts that they are high caliber dudes. Their intellectual horsepower is high. 
 
 They break problems down simply. They see all the factors concurrently. 
 
 Unit economics,
 product details, 
-competitve landscape,
+competitive landscape,
 strategic implications, 
 and all the other things that are beyond my business brain. 
 

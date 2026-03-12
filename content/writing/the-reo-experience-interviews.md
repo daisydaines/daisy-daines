@@ -13,7 +13,7 @@ If this was my only chance, I wasn’t going to leave any question that I was th
 
 I wasn’t going to let my lack of effort leave me without a job offer. 
 
-This was gametime. 
+This was game time. 
 
 I read more from Tyler Hogge’s blog and found another article about exceptional startups. 
 

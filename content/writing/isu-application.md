@@ -8,7 +8,7 @@ images:
     - /images/writing/pro-photo.jpg
     - /images/writing/dinner-grace.jpeg
 ---
-*A short essay for my master's program application on why I want to puruse the Sports Adminsinstration program at Idaho State University 🐅*
+*A short essay for my master's program application on why I want to pursue the Athletic Administration program at Idaho State University 🐅*
 __
 
 92. 
@@ -19,4 +19,4 @@ During my last year as a student at Utah Valley University, I began work as a he
 
 My dream would be to work ultimately as a head coach.  The chance to inspire hard work, ethics, and unity in a team thrills me.  As I started to study coaches that inspire me, I began to realize everything that a career like that might entail.  That is what led me to this particular program.  The work of a head coach, or anyone in the athletics department, is more than molding a winning team.  A program lives or dies by maintaining relationships.  This does not only include personal, individual relationships with team members and staff, but with larger communities.  The messaging to other teams, the conference owners and managers, boosters, fans, alumni, and potential recruits is imperative to a successful program.  Managing these relationships well leads not only to successful seasons, fundraising and support, but it allows and expands the circle of influence of a team to inspire, mentor, and motivate others.
 
-I am interested in understanding how all the aforementioned units function cohesively.   I want to discover and harness the influence and abilities of these groups and learn how to run and work in a successful program, specifically a basketball team.   Oftentimes, the sports programs are the programs that represent the university as a whole to its communities.  Developing a deeper understanding of how these sports programs run from the top down will help in any of my future coaching endeavours.  It interests me greatly to know how to navigate that effectively based on this athletic administration program.  Idaho State University offers a unique opportunity so I am interested in pursuing this kind of study there.
+I am interested in understanding how all the aforementioned units function cohesively.   I want to discover and harness the influence and abilities of these groups and learn how to run and work in a successful program, specifically a basketball team.   Oftentimes, the sports programs are the programs that represent the university as a whole to its communities.  Developing a deeper understanding of how these sports programs run from the top down will help in any of my future coaching endeavors.  It interests me greatly to know how to navigate that effectively based on this athletic administration program.  Idaho State University offers a unique opportunity so I am interested in pursuing this kind of study there.
