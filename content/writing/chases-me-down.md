@@ -4,7 +4,7 @@ date: "2025-07-21"
 type: "journal"
 published: "public"
 ---
-Yesterday I passed the sacrament in my word. This is a common occurrence because of how few young men we have in our ward. I passed to the pews against the wall and then into the foyer. The first time I went to the foyer there was only one person out there. The second time I ran out of water and needed to wait for a tray from the middle. 
+Yesterday I passed the sacrament in my ward. This is a common occurrence because there are only a few young men in our ward. I passed to the pews against the wall and then into the foyer. The first time I went to the foyer there was only one person out there. The second time I ran out of water and needed to wait for a tray from the middle. 
 
 I easily could’ve left the one guy hanging, but waited until the middle passers were done to grab the extra from that tray and go out to the foyer. Once I gave him the water I looked around and noticed a lady that I had given bread to earlier that had walked out with her crying baby. She was walking down the hallway, in the opposite direction, soothing her crying baby. 
 
