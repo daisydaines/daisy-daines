@@ -143,9 +143,9 @@ export const goals = {
   hyrox: {
     label: "hyrox",
     description: "complete a hyrox race",
-    raceDate: "2026-09-20",
+    raceDate: "2026-09-19",
     raceDateDisplay: "sep 18–20, 2026",
-    raceLocation: "anaheim, ca",
+    raceLocation: "salt lake city, ut",
     trainingStart: "2026-03-23",
   },
   bodyFat: {
