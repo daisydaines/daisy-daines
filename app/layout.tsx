@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Lora } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { CommandPalette } from "@/components/CommandPalette";
 import { KeyboardShortcuts } from "@/components/KeyboardShortcuts";
 import { Providers } from "@/components/Providers";
@@ -50,6 +51,7 @@ export default function RootLayout({
           <KeyboardShortcuts />
           {children}
         </Providers>
+        <Analytics />
       </body>
     </html>
   );
