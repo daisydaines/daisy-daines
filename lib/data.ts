@@ -174,8 +174,8 @@ export const liftsMetadata = {
 
 export const lifts: Lift[] = [
   { label: "bench", value: 240, previous: 225, unit: "lbs" },
-  { label: "squat", value: 325, previous: 315, unit: "lbs" },
-  { label: "deadlift", value: 350, previous: 335, unit: "lbs" },
+  { label: "squat", value: 340, previous: 320, unit: "lbs" },
+  { label: "deadlift", value: 360, previous: 335, unit: "lbs" },
   { label: "pullups", value: 11, previous: 10, unit: "reps" },
 ];
 
