@@ -11,7 +11,7 @@ and the stars say hello
 my feet drag behind
 with my account in tow
 .
-naturally i fall–
+naturally i fall
 nothing left in the tank
 finding myself on my knees 
 and heading to the bank 
@@ -22,7 +22,7 @@ the clothes on my back
 are what’s left of what i own.
 .
 “please don’t check
-my recent history. 
+my account history. 
 trust me this time 
 i’ll be better, you’ll see”
 .
@@ -36,14 +36,14 @@ to faithfully repay
 the innumerable sum 
 i squander each day. 
 .
-so i stumbled upon a bank
+but i stumbled upon a bank
 that’s family owned and run
 the banker is the father
 and the teller, his son. 
 .
 upon my arrival
 the teller is always the same. 
-calm, caring, and captivating
+calm, caring and captivating
 he calls me by name
 .
 “open for business”
@@ -56,13 +56,13 @@ because i’d banked before,
 so i didn’t read the print 
 that guaranteed a guarantor 
 .
-so each time i showed up 
+and each time i showed up 
 more exhausted than the last
 i was trying to drive 
-without filling up the gas
+without filling up with gas
 .
 working full-time
-with two jobs on the side
+plus two jobs on the side
 i’m stressed and overtaxed
 and losing my mind 
 .
@@ -89,7 +89,7 @@ that guaranteed the guarantor
 the terms and conditions 
 were laid out from the start,
 but i quickly skipped them over
-because i didn’t know this banker’s heart
+not knowing this banker’s heart
 .
 was full of wealth and riches, 
 though not the green and gold
@@ -114,9 +114,9 @@ wishing to win the lottery
 my bank account was negative
 and my hope account much less
 maybe if i closed it out
-it would bury my stress.
+it would take with it my stress.
 .
-i headed for the bank 
+so i headed for the bank 
 and just like times before
 i hadn’t even reached the walk
 before the teller opened the door
@@ -126,7 +126,7 @@ that i hadn’t felt in years
 his welcome and warmth
 quickly calmed my fears
 .
-so we got down to business 
+and we got down to business 
 me the father and the son
 a feeling very similar 
 to my experience on day one

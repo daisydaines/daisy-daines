@@ -9,17 +9,24 @@ images:
 ---
 I had been applying for jobs since July 10th. 
 
-It had been six weeks of applying to dozens of jobs and with very few bites. 
+It had been six weeks of applying.
 
-I had a less than 5% interview rate and the Vivint Sr. Data Analyst job I was confident in fell through to an internal employee. Didn’t even get a fair shot. 
+The application count was nearing triple figures, but I could count the amount of times I'd been contacted on one hand. 
 
-I was on LinkedIn to find some more job listings when the first post on my feed was a blog article from Tyler Hogge. He isn’t someone I know, but someone else in my network reacted to his post and so it was served to me. He had written a blog article about Divvy and Redo. I had heard of Divvy and some of the story, but Redo I was mostly unfamiliar with. 
+I had a less than 5% interview rate and the Vivint Sr. Data Analyst job I was confident in fell through to an internal employee. I didn’t even get a real shot. 
 
-I started reading and at the beginning he wrote, “This will be one of my longest posts, so buckle up. This is only for the hardcore.” This is typically the time when I would click back to what I was reading or doing before, but something kept me reading. I read about Divvy’s success and Redo’s similar experiences. I read about their growth and their company and felt compelled to join. 
+I was on LinkedIn to find some more job listings when a post on my feed from Tyler Hogge popped up. He isn’t someone I know, but someone else in my network reacted to his post and so it was served to me. 
+
+He had written a blog article about Divvy and Redo. I had heard of Divvy and some of the story, but Redo I was completely unfamiliar with. 
+
+I started reading and at the beginning he wrote, “This will be one of my longest posts, so buckle up. This is only for the hardcore.” 
+
+This is typically the time when I would click back to what I was reading or doing before, but something kept me reading. I read about Divvy’s success and Redo’s similar early trajectory. I read about their growth and company and felt compelled to join. 
 
 The last line of the article read, 
 
 “If this type of culture and opportunity causes you to lean in and nod, Redo is hiring for some key roles as they race towards some big milestones. 
+
 Apply here.”
 
 I was hooked! 
@@ -36,21 +43,21 @@ I followed the link to their job board and clicked through each listing:
 - Senior Product Designer
 - Product Analyst – BINGO. 
 
-
 An Analyst role! A majority of the roles I had been applying for over the last month and a half were analyst roles. 
+
 Analyst roles typically combine data, people, and problem solving under one title. 
 This product analyst role was slightly different, but the culture and company resonated with me so much that I applied anyway. 
 
 I had read from the LinkedIn Guru’s who help people get a job that the best way to get a job is first to use a connection to introduce you to the company and get a first interview that way. 
 I scoured Redo’s people page to find anyone I knew or could be connected to. 
 
-I texted CV friends, ward members, mission buddies, and other close friends for introductions. Nothing was getting me an interview. 
+I texted CV friends, ward members, mission buddies, and other close connections for introductions. Nothing was getting me an interview. 
 
 Then, I saw Jen, my first manager from Zartico, was connected to Redo’s recruiter! WHAT?! 
 
-The perfect connection. The lady that hired me at Zartico was connected to the lady in charge of hiring at Redo. 
+The perfect connection. The person that hired me at Zartico was connected to the person in charge of hiring at Redo. 
 
-I texted Jen and she immediately sent a group message to Shi. Within 20 minutes Shi responded with a link to her calendar for me to schedule my first interview. 
+I texted Jen and she immediately sent a group message to me and Shi. Within 20 minutes Shi responded with a link to her calendar for me to schedule my first interview. 
 
 There was hope. 
 

@@ -27,7 +27,9 @@ One definition of social states, “relating to or designed for activities in wh
 It seems to me that being overly social could mean excessively interacting with others for pleasure or perhaps being immensely inclined towards people. Whether this behavior stemmed from Esther’s syndrome or her nature, I believe it was from God. 
 
 I believe the same God who impossibly gave His Son also gave Grace and me a daughter who connected us to heaven and to each other more than we ever could have alone. 
+
 I believe the same God who unreasonably gives His grace gave us an angel who spread goodwill and joy more than anyone I know. 
+
 I believe the same God whose exceedingly great gift to the world was His Only Begotten Son gave us the additional gift of Esther, too.
 
 Esther is a picture of God’s goodness and Grace shared some pictures and a video with me this morning that reminded me of that again.
@@ -36,13 +38,14 @@ A year ago, on June 24th, Esther had a seizure in the late afternoon that put he
 
 We came home on the evening of June 25th exhausted and drained.  
 
-Early in the morning on June 26th Grace captured [this tender moment](https://drive.google.com/file/d/1d6Zyc3osbeOqVKUvd2Mw5StFOhcsYnss/view?t=1) of Esther loving on Remi because Remi was crying. Esther could hardly move and barely function, yet still found the strength to comfort her baby sister, Remi.  
+Early in the morning on June 26th Grace captured [this tender moment](https://drive.google.com/file/d/1d6Zyc3osbeOqVKUvd2Mw5StFOhcsYnss/view?t=1) of Esther loving on Remi because Remi was crying. Esther could hardly move and barely function, yet still found the strength to comfort her baby sister.  
 
-A few moments later she was lying in bed, completely deprived of all the energy she had because she shared it with her little sis. 
+A few moments later she was lying in bed, completely energy deprived because she shared it with her little sis. 
 
-And shortly after she was asleep again.
+Shortly after, Esther was asleep. Just hours after waking up for the morning.
 
 Esther gave so much of her life for others 💜
+
 Reminds me of Him who gave His life for you and me ✝️
 
 --
