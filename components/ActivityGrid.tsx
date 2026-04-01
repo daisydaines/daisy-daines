@@ -55,9 +55,11 @@ interface Props {
   type: ActivityType;
   total: number;
   noun: string; // "contribution" | "workout" | "entry"
+  nounPlural?: string; // override for irregular plurals e.g. "entries"
 }
 
-export function ActivityGrid({ grid, type, total, noun }: Props) {
+export function ActivityGrid({ grid, type, total, noun, nounPlural }: Props) {
+  const pluralNoun = nounPlural ?? `${noun}s`;
   const [tip, setTip] = useState<TooltipState | null>(null);
   const colors = palette[type];
 
@@ -142,7 +144,7 @@ export function ActivityGrid({ grid, type, total, noun }: Props) {
 
       {/* Stats line */}
       <p className="font-mono text-[11px] text-foreground/25 mt-3">
-        {total} {total === 1 ? noun : `${noun}s`} in the last 91 days
+        {total} {total === 1 ? noun : pluralNoun} in the last 91 days
       </p>
 
       {/* Floating tooltip */}
@@ -154,8 +156,8 @@ export function ActivityGrid({ grid, type, total, noun }: Props) {
           <span className="text-foreground/40">{tip.date}</span>
           {" · "}
           {tip.count === 0
-            ? `no ${noun}s`
-            : `${tip.count} ${tip.count === 1 ? noun : `${noun}s`}`}
+            ? `no ${pluralNoun}`
+            : `${tip.count} ${tip.count === 1 ? noun : pluralNoun}`}
         </div>
       )}
     </div>

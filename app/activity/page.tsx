@@ -30,9 +30,14 @@ export default async function ActivityPage() {
   const fitnessGrid = buildGrid(fitnessData, WEEKS);
   const writingGrid = buildGrid(writingData, WEEKS);
 
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 91);
+
   const codeTotal = githubData.reduce((sum, d) => sum + d.count, 0);
   const fitnessTotal = fitnessData.length;
-  const writingTotal = writingData.length;
+  const writingTotal = writingData.filter(
+    (d) => new Date(d.date + "T12:00:00") >= cutoff
+  ).length;
 
   return (
     <main>
@@ -115,6 +120,7 @@ export default async function ActivityPage() {
             type="writing"
             total={writingTotal}
             noun="entry"
+            nounPlural="entries"
           />
         </section>
       </div>
