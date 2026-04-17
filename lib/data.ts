@@ -173,10 +173,10 @@ export const liftsMetadata = {
 };
 
 export const lifts: Lift[] = [
-  { label: "bench", value: 240, previous: 230, unit: "lbs" },
-  { label: "squat", value: 340, previous: 320, unit: "lbs" },
-  { label: "deadlift", value: 360, previous: 335, unit: "lbs" },
-  { label: "pullups", value: 11, previous: 10, unit: "reps" },
+  { label: "bench", value: 245, previous: 240, unit: "lbs" },
+  { label: "squat", value: 345, previous: 340, unit: "lbs" },
+  { label: "deadlift", value: 365, previous: 360, unit: "lbs" },
+  { label: "pullups", value: 13, previous: 11, unit: "reps" },
 ];
 
 export const social = [
