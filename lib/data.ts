@@ -168,8 +168,8 @@ export const goals = {
 };
 
 export const liftsMetadata = {
-  currentDate: "mar 2026",
-  previousDate: "feb 2026",
+  currentDate: "apr 2026",
+  previousDate: "mar 2026",
 };
 
 export const lifts: Lift[] = [
