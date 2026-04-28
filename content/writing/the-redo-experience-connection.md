@@ -9,7 +9,7 @@ images:
 ---
 I had been applying for jobs since July 10th. 
 
-It had been six weeks of applying.
+Six weeks of searching, resume tweaking, applying and waiting. 
 
 The application count was nearing triple figures, but I could count the amount of times I'd been contacted on one hand. 
 
@@ -43,10 +43,9 @@ I followed the link to their job board and clicked through each listing:
 - Senior Product Designer
 - Product Analyst – BINGO. 
 
-An Analyst role! A majority of the roles I had been applying for over the last month and a half were analyst roles. 
+An analyst role! A majority of the roles I had been applying for over the last month and a half were analyst roles. 
 
-Analyst roles typically combine data, people, and problem solving under one title. 
-This product analyst role was slightly different, but the culture and company resonated with me so much that I applied anyway. 
+Analyst roles typically combine data, people, and problem solving under one title. This product analyst role was slightly different, but the culture and company resonated with me so much that I applied anyway. 
 
 I had read from the LinkedIn Guru’s who help people get a job that the best way to get a job is first to use a connection to introduce you to the company and get a first interview that way. 
 I scoured Redo’s people page to find anyone I knew or could be connected to. 

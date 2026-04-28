@@ -58,7 +58,7 @@ that continued to grow in spite of her trials
 And even though I saw what He saw
 I questioned the cards that she had drawn
 Until I learned that God is the Dealer
-who formed Esther into a {purple:*wounded healer*}
+who formed Esther into a *{purple:wounded healer}*
 .
 Her light wasn’t dimmed as I had expected,
 but radiantly beamed as if unaffected

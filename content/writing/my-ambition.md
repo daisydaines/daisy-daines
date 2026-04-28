@@ -11,18 +11,18 @@ I pray, “God, send me toward those who feel hopeless and without help.”
 half words half tears they cry, “I can’t do this one more day!”
 Thankfully, Love began the chase and refuses to let us escape.
 .
-Sometimes they think the world would become better without ’em.
-That’s not true. We need YOU and me and there’s no doubt about it.
+Sometimes they think the world would be better without ’em.
+That’s not true. We need me *AND* you. There’s no doubt about it.
 But they rebuttal, “no one would know. and no one would even care!” 
-I disagree. A house becomes a home when EVERYONE is there!   
+I disagree. A house becomes a home when *EVERYONE* is there!   
 .
 For a time this world will be a place of temporary stay. 
 Yet, for years many wander homeless, alone, and afraid.
-But God designed us like a puzzle– created for connection.
-That’s why Jesus TOUCHED the leper to rid him of infection. 
+But God designed us like a puzzle – created for connection.
+That’s why Jesus *TOUCHED* the leper to rid him of infection. 
 .
 Against all rules and laws He gently stretched out His hand 
-testing the age old myth which claimed He’d wither– skin to sand.
+testing the age old myth which claimed He’d wither – skin to sand.
 But what’s contagious was His love and holiness, too.
 He’s the cure for the diseased and reaches out to me and you.
 .
@@ -39,4 +39,4 @@ to heal wounds one by one in His intimate fashion.
 As He brings us to the inn we see His hands full of payment.
 “It is finished!” then we rest, in that His final statement.  
 Healed, helped, and given hope, His grace in us imbued.
-Love God and all His people– His only plea to me and you.
+Love God and all His people – His only plea to me and you.
