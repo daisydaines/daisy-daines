@@ -31,7 +31,7 @@ There wasn’t a puzzle she couldn’t complete
 no matter the challenge she’d always compete. 
 .
 But her life went deeper than puzzles and play
-at seven months old she was diagnosed with Dravet
+at seven months old she was diagnosed with {purple:Dravet}
 A syndrome that made the simple things hard
 and seizures were also dealt in those cards. 
 .
@@ -58,19 +58,19 @@ that continued to grow in spite of her trials
 And even though I saw what He saw
 I questioned the cards that she had drawn
 Until I learned that God is the Dealer
-who formed Esther into a wounded healer
+who formed Esther into a {purple:*wounded healer*}
 .
 Her light wasn’t dimmed as I had expected,
 but radiantly beamed as if unaffected
 by the toll this diagnosis had on her
 the affliction only made her more pure 
 .
-This round was over – she played it her best 
+Now, this round was over – she played it her best 
 and to know her we each count ourselves blessed.
-God showed me a picture of his Only Son
+God showed me a picture of His Beloved Son
 and brought heaven to earth in my little one. 
 .
 and when I looked again at her pile of cards
-in one hand she held the Queen of Hearts
+in one hand she held the {purple:Queen of Hearts}
 and the other hand was held by the King of Kings 
 as He gently kissed her and gave her new wings.
