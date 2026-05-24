@@ -1,0 +1,8 @@
+---
+title: "off balance"
+date: "2026-05-14"
+type: "journal"
+published: "private"
+---
+
+i’m on my way to Smith’s to get a little snack or treat and feel like it’s because of how I’m feeling emotionally just drained and down and tired and just walked out of the room and said the gray like why am I unhappy it’s so weird this is such a strange feeling to have things look good on paper with the job and the salary and the benefits and the place we live and the family and just to be or at least feel unhappy and I honestly think it’s just how much I am. I focus and have been focusing on my job and career and how much time I get to Redo compared to how much time I’m not giving to my family and service and Jesus and just things that actually make people happy. I don’t know that’s like just the thought. I’m having driving right now is that I’m just looking for I’m not not even that I’m looking for happiness in the wrong places. Most of my time is going somewhere that isn’t going to bring me happiness I think is what I’ve come to and it’s tough because I like working hard but I feel like I’m not doing something that’s valuable in the big picture and I like making an earning money in the challenge of that but I feel like the way that I’m doing it feels pointless and so that’s where it’s like not messing with. Is there something I could do that would feel worthwhile and feel purposeful and also make money from it. I don’t know but I think spending 60+ hours a week Treu is not bringing happiness.
