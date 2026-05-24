@@ -18,6 +18,7 @@ const navCommands: Command[] = [
   { id: "activity", label: "activity", group: "navigate", href: "/activity" },
   { id: "building", label: "building", group: "navigate", href: "/building" },
   { id: "writing", label: "writing", group: "navigate", href: "/writing" },
+  { id: "reading", label: "reading", group: "navigate", href: "/reading" },
   { id: "client-work", label: "client work", group: "navigate", href: "/client-work" },
 ];
 

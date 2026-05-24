@@ -2,6 +2,7 @@ import { Nav } from "@/components/Nav";
 import { Hero } from "@/components/Hero";
 import { Projects } from "@/components/Projects";
 import { Writing } from "@/components/Writing";
+import { Reading } from "@/components/Reading";
 import { Goals } from "@/components/Goals";
 import { Footer } from "@/components/Footer";
 import { getAllWritings } from "@/lib/writing";
@@ -28,6 +29,7 @@ export default async function Home() {
       <Hero />
       <Projects />
       <Writing writings={writings} />
+      <Reading />
       <Goals />
       <Footer />
     </main>

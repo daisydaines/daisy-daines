@@ -14,6 +14,14 @@ export interface Poem {
   date?: string;
 }
 
+export interface Book {
+  title: string;
+  author: string;
+  url?: string; // goodreads / publisher / wherever
+  note?: string; // one line on why it mattered, or a favorite quote
+  year?: string; // when you read it, or pub year
+}
+
 export interface Lift {
   label: string;
   value: number | null;
@@ -137,6 +145,29 @@ export const poems: Poem[] = [
     url: "https://daisydaines.wordpress.com/2019/09/30/the-prince/",
     date: "sep 2019",
   },
+];
+
+// books that shaped how i think. short and curated.
+// NOTE: keep newest-first — the home teaser shows the first 3.
+export const books: Book[] = [
+  { title: "good energy", author: "casey means", note: "currently reading.", year: "2026" },
+  { title: "the tipping point", author: "malcolm gladwell", year: "2025" },
+  { title: "be where your feet are", author: "scott o'neil", year: "2025" },
+  { title: "sprawlball", author: "kirk goldsberry", year: "2024" },
+  { title: "essentialism", author: "greg mckeown", year: "2024" },
+  { title: "talking to strangers", author: "malcolm gladwell", year: "2023" },
+  { title: "david and goliath", author: "malcolm gladwell", year: "2023" },
+  { title: "moneyball", author: "michael lewis", year: "2023" },
+  { title: "practicing the way", author: "john mark comer", year: "2022" },
+  { title: "start with why", author: "simon sinek", year: "2022" },
+  { title: "above the line", author: "urban meyer", year: "2022" },
+  { title: "outliers", author: "malcolm gladwell", year: "2022" },
+  { title: "switch", author: "chip & dan heath", year: "2021" },
+  { title: "mindset", author: "carol dweck", year: "2021" },
+  { title: "boys in the boat", author: "daniel james brown", year: "2021" },
+  { title: "capital gaines", author: "chip gaines", year: "2021" },
+  { title: "the ruthless elimination of hurry", author: "john mark comer", year: "2020" },
+  { title: "to hell with the hustle", author: "jefferson bethke", year: "2019" },
 ];
 
 export const goals = {
