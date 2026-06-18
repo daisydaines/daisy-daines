@@ -199,15 +199,15 @@ export const goals = {
 };
 
 export const liftsMetadata = {
-  currentDate: "may 2026",
-  previousDate: "apr 2026",
+  currentDate: "june 2026",
+  previousDate: "may 2026",
 };
 
 export const lifts: Lift[] = [
-  { label: "bench", value: 255, previous: 245, unit: "lbs" },
-  { label: "squat", value: 360, previous: 345, unit: "lbs" },
-  { label: "deadlift", value: 365, previous: 360, unit: "lbs" },
-  { label: "pullups", value: 13, previous: 11, unit: "reps" },
+  { label: "bench", value: 255, previous: 255, unit: "lbs" },
+  { label: "squat", value: 360, previous: 360, unit: "lbs" },
+  { label: "deadlift", value: 375, previous: 365, unit: "lbs" },
+  { label: "pullups", value: 13, previous: 13, unit: "reps" },
 ];
 
 export const social = [
